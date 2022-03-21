@@ -1,11 +1,8 @@
-## Projeto básico desenvolvido para utilizar a Interface JpaRepository
+## A basic project was created to test the interface JpaRepository
 
-Utilizado conceitos de criação de tabelas pelo Java Spring-boot 
-definição de chaves primárias e conceitos de requisição web utilizando Postman.
+Used concepts of table creation with Java Spring-boot, the definition of primary keys, and concepts of web requisitions using Postman.
 
-Tecnologias utilizadas:
-
-
+Technologies:
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/64164102/159193271-c302c55e-21c6-4479-94ce-7820878c9174.png" width="350" title="Spring">
